@@ -2,6 +2,7 @@
     "name": "cedcoss/src",
     "description": "composer demo",
     "type": "library",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Astha",
