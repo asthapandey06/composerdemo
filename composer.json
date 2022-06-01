@@ -1,0 +1,12 @@
+{
+    "name": "cedcoss/src",
+    "description": "composer demo",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Astha",
+            "email": "asthapandey2022jan@cedcoss.com"
+        }
+    ],
+    "require": {}
+}
